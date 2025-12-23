@@ -5,6 +5,7 @@ function Education(){
         <section className="education">
   <h2 className="section-title">Education</h2>
   <div className="timeline">
+    <h1>Hi my name is Satyam</h1>
   <EducationCard
     year="2020 - 2024"
     degree="Bachelor of Technology in Computer Science and Engineering"

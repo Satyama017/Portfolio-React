@@ -26,9 +26,8 @@ function App(){
     <Skills></Skills>
     <Education></Education>
     <Contact></Contact>
-    <Footer></Footer>
+    <Footer></Footer> 
     </div>
   )
 }
-
 export default App;
